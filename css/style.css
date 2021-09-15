@@ -35,33 +35,33 @@ div{
     padding-left: 25px;
 }
 
-#red{
+div.red{
     background-color:#ff0000;
     text-align: right;
 }
 
-#blue{
+div.blue{
     background-color:#0000ff;
     text-align: left;
 }
 
-#yellow{
+div.yellow{
     background-color:#ffff00;
     text-align:right;
 }
 
-#yellow h2{
+div.yellow h2{
     color: #000000;
     text-shadow: #c7e2c7;
     vertical-align: 4px;
     text-align: 4px;
 }
 
-#yellow p{
+div.yellow p{
     color: #000000;
 }
 
-#green{
+div.green{
     background-color: #008000;
     text-align: left;
 }
