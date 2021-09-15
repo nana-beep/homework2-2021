@@ -12,10 +12,8 @@ h1{
 
 h2{
     font-size: 32px;
-    text-shadow: #808080;
-    vertical-align: 4px;
-    text-align: 4px;
-    filter: blur(2px);
+    text-shadow: #808080 4px 4px 2px;
+    
 }
 
 p{
@@ -57,10 +55,7 @@ div{
 
 #yellow h2{
     color: #000000;
-    text-shadow: #c7e2c7;
-    vertical-align: 4px;
-    text-align: 4px;
-    filter: blur(2px);
+    text-shadow: #c7e2c7 4px 4px 2px;
 }
 
 #yellow p{
