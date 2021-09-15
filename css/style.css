@@ -40,16 +40,19 @@ div{
 #red{
     background-color:#ff0000;
     text-align: right;
+    overflow: auto;
 }
 
 #blue{
     background-color:#0000ff;
     text-align: left;
+    overflow: auto;
 }
 
 #yellow{
     background-color:#ffff00;
     text-align:right;
+    overflow: auto;
 }
 
 #yellow h2{
@@ -57,6 +60,7 @@ div{
     text-shadow: #c7e2c7;
     vertical-align: 4px;
     text-align: 4px;
+    filter: blur(2px);
 }
 
 #yellow p{
@@ -66,6 +70,7 @@ div{
 #green{
     background-color: #008000;
     text-align: left;
+    overflow: auto;
 }
 
 footer{
