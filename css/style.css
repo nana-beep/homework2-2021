@@ -23,7 +23,8 @@ p{
 }
 
 img{
-    text-align:center;
+    margin: auto;
+    display: block;
     width: 550px;
 }
 
@@ -35,33 +36,33 @@ div{
     padding-left: 25px;
 }
 
-div.red{
+#red{
     background-color:#ff0000;
     text-align: right;
 }
 
-div.blue{
+#blue{
     background-color:#0000ff;
     text-align: left;
 }
 
-div.yellow{
+#yellow{
     background-color:#ffff00;
     text-align:right;
 }
 
-div.yellow h2{
+#yellow h2{
     color: #000000;
     text-shadow: #c7e2c7;
     vertical-align: 4px;
     text-align: 4px;
 }
 
-div.yellow p{
+#yellow p{
     color: #000000;
 }
 
-div.green{
+#green{
     background-color: #008000;
     text-align: left;
 }
