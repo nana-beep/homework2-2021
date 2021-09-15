@@ -12,8 +12,7 @@ h1{
 
 h2{
     font-size: 32px;
-    text-shadow: #808080 4px 4px 2px;
-    
+    text-shadow: 4px 4px 2px #808080;
 }
 
 p{
