@@ -50,6 +50,19 @@ div{
     text-align:right;
 }
 
+.yellow h2{
+    color: #000000;
+    text-shadow: #c7e2c7;
+    vertical-align: 4px;
+    text-align: 4px;
+}
+
+.yellow p{
+    color: #000000;
+}
+
+
+
 .green{
     background-color: #008000;
     text-align: left;
